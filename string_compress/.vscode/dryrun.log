@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/mobiltech/github/programmers/string_compress'
+g++ -o main.exe main.cpp 
+make: Leaving directory '/home/mobiltech/github/programmers/string_compress'
+ 
